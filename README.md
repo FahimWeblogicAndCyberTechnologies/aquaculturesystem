@@ -53,4 +53,8 @@ Roles supported:
 admin
 farmer
 vet
+<<<<<<< HEAD
 Active/inactive status tracking
+=======
+Active/inactive status tracking
+>>>>>>> 30b9c681c58dae5c94c46f496063b5cb92b1a609
